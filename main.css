@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	background-color: #f5f1ed;
+}
+
+body { 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	margin: 0 auto;
+	background-color: #e2e7c4; 
+	width: 80%;
+}
+
+header { 
+	text-align: center;  
+}
+
+main, footer {
+	clear: both;
+	text-align: center;
+	padding: 1em;
+}
+
+
+
+
